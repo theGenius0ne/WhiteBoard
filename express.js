@@ -2,7 +2,7 @@
 const express = require("express");
 // express server
 const app = express();
-//  nodejs
+
 const server = require("http").Server(app);
 // nodejs => socket enabled
 const path = require("path");
